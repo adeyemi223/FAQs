@@ -49,6 +49,7 @@ section{
     padding: 1rem;
     line-height: 1.5;
     font-size: 1.3rem;
+    text-align: justify;
     /* font-weight: 200; */
 }
 
